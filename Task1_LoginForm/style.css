@@ -1,0 +1,22 @@
+* {
+	margin: 0px;
+}
+
+.top {
+	width: 100%;
+	height: 70px;
+	background-color: green;
+	padding-left: 50px;
+	padding-top:20px;
+}
+
+.authoriz {
+	width: 100%;
+	height: 100px;
+	background-color: #0AC7FE;
+}
+
+.form {
+	padding-top: 25px;
+	padding-left: 50px;
+}
